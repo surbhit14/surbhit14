@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surbhit Agrawal</h1>
 <h3 align="center">A full stack web developer and Blockchain developer from Jaipur,India. I am pursuing B.Tech in I.T from VIT Vellore and very passionate about learning new things. I regularly participate in various events(hackathons) and always looking for new opportunities.. I am also interested in Computer Vision using OpenCV</h3>
 
-- 🌱 I’m currently learning **MERN stack,Moralis**
+- 🌱 I’m currently learning **Smart contract Auditing**
 
 - 💬 Ask me about **react,solidity,javascript**
 
