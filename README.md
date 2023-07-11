@@ -11,6 +11,8 @@
 
 ## 📞 Contact Information
 <p align="center">
+<a href="mailto:surbhitagrawal716@gmail.com" target="blank">✉️ Email</a>
+<a href="https://drive.google.com/file/d/1dpH2eOin9JDo6n4azXXwVQVhMFWq5MkR/view?usp=sharing" target="_blank">📄Resume </a>
 <a href="https://www.linkedin.com/in/surbhit-agrawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surbhit-agrawal" height="30" width="40" /></a>
 <a href="https://twitter.com/Gouenji_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gouenji_14" height="30" width="40" /></a>
 <a href="https://instagram.com/surbhit_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surbhit_agrawal" height="30" width="40" /></a>
