@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surbhit Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Surbhit Agrawal aka Gouenji </h1>
 <h3 align="center">I am a blockchain developer and full-stack web developer, currently in the 4th year of my bachelor's degree in Information Technology at VIT Vellore.I have participated and won in several national and international hackathons and interned at various organizations as a blockchain/backend developer </h3>
 
 🔭 I'm currently working on:
